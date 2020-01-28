@@ -388,7 +388,8 @@ h1 {
 .air__card_4 {
   right: -300px;
   position: absolute;
-  top: 180px; }
+  top: 180px;
+  z-index: 14; }
   @media screen and (max-width: 414px) {
     .air__card_4 {
       top: 800px; } }
