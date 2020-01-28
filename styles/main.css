@@ -347,6 +347,9 @@ h1 {
   @media screen and (max-width: 375px) {
     .air__cards {
       right: 306px; } }
+  @media screen and (max-width: 360px) {
+    .air__cards {
+      right: 321px; } }
   @media screen and (max-width: 320px) {
     .air__cards {
       right: 323px; } }
@@ -807,6 +810,9 @@ h1 {
     @media screen and (max-width: 414px) {
       .footer__form_field, .footer__form_field_area {
         width: 330px; } }
+    @media screen and (max-width: 360px) {
+      .footer__form_field, .footer__form_field_area {
+        width: 300px; } }
     @media screen and (max-width: 320px) {
       .footer__form_field, .footer__form_field_area {
         width: 290px; } }
