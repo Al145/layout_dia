@@ -811,6 +811,9 @@ h1 {
     @media screen and (max-width: 414px) {
       .footer__form_field, .footer__form_field_area {
         width: 330px; } }
+    @media screen and (max-width: 375px) {
+      .footer__form_field, .footer__form_field_area {
+        width: 310px; } }
     @media screen and (max-width: 360px) {
       .footer__form_field, .footer__form_field_area {
         width: 300px; } }
